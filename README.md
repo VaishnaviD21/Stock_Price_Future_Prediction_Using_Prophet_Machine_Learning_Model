@@ -1,5 +1,3 @@
-**Tesla Stock Price Forecasting**
-
 **Description**
 
 I created this project to forecast the price of Tesla stock 30 days into the future using the Facebook Prophet machine learning model. Throughout the project, I learned to import libraries and datasets, create the model, and evaluate its performance by comparing the forecasted data with actual data. Additionally, I extracted financial data using Google Finance in Google Sheets and automated the entire forecasting process.
